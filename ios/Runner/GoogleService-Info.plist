@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>650794834089-aroqsji7mec67nrpgb6kg26qidisgnm1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.650794834089-aroqsji7mec67nrpgb6kg26qidisgnm1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSmx7lmcW_6Y4-aMSDXoA8EPiNiZe5xCU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>650794834089</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.apptware</string>
+	<key>PROJECT_ID</key>
+	<string>flutterlazyload</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterlazyload.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:650794834089:ios:fbc7987a663a489f1f31b8</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutterlazyload.firebaseio.com</string>
+</dict>
+</plist>

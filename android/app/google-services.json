@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650794834089",
+    "firebase_url": "https://flutterlazyload.firebaseio.com",
+    "project_id": "flutterlazyload",
+    "storage_bucket": "flutterlazyload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650794834089:android:dc037bc70baa472c1f31b8",
+        "android_client_info": {
+          "package_name": "com.example.apptware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650794834089-cq0l08so5lp9rdhs9l941mm8i4k83n42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZxyPG4pUbtXh19MvOXprFYiQ5-Jx3Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650794834089-cq0l08so5lp9rdhs9l941mm8i4k83n42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650794834089-aroqsji7mec67nrpgb6kg26qidisgnm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apptware"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
